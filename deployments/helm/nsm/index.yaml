@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nsm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-03-21T06:51:36.46455488-07:00
+    description: A Helm chart for Kubernetes
+    digest: c3f5aaa85b618e4eb3ee0ebd3e03c1cb4de9c03c8eabc7e54abc707e232cb6c4
+    name: nsm
+    urls:
+    - nsm-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-03-21T06:51:36.464126695-07:00
